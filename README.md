@@ -26,3 +26,122 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
 </p>
+
+<h3 align="center">Play Snake Game!</h3>
+<p align="center">Use your commits to control the snake!</p>
+
+<canvas id="gameCanvas" width="400" height="400" style="border: 1px solid black; display: block; margin: 0 auto;"></canvas>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Snake Game</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f0f0f0;
+    }
+    canvas {
+      border: 1px solid #333;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="gameCanvas" width="400" height="400"></canvas>
+
+  <script>
+    const canvas = document.getElementById("gameCanvas");
+    const ctx = canvas.getContext("2d");
+
+    // Set the size of each grid cell
+    const gridSize = 20;
+    const canvasSize = 400;
+    const cellSize = canvasSize / gridSize;
+
+    // Initialize snake properties
+    let snake = [{ x: 10, y: 10 }];
+    let food = { x: Math.floor(Math.random() * gridSize), y: Math.floor(Math.random() * gridSize) };
+    let dx = 1;
+    let dy = 0;
+    let score = 0;
+
+    // Main game loop
+    function main() {
+      clearCanvas();
+      updateSnake();
+      drawSnake();
+      drawFood();
+      if (checkCollision()) {
+        resetGame();
+      }
+      setTimeout(main, 100); // Move snake every 100 milliseconds
+    }
+
+    // Clear the canvas
+    function clearCanvas() {
+      ctx.fillStyle = "#f0f0f0";
+      ctx.fillRect(0, 0, canvasSize, canvasSize);
+    }
+
+    // Update the snake's position
+    function updateSnake() {
+      const head = { x: snake[0].x + dx, y: snake[0].y + dy };
+      snake.unshift(head);
+      if (head.x === food.x && head.y === food.y) {
+        score++;
+        generateFood();
+      } else {
+        snake.pop();
+      }
+    }
+
+    // Draw the snake on the canvas
+    function drawSnake() {
+      ctx.fillStyle = "#000";
+      snake.forEach(segment => {
+        ctx.fillRect(segment.x * cellSize, segment.y * cellSize, cellSize, cellSize);
+      });
+    }
+
+    // Draw the food on the canvas
+    function drawFood() {
+      ctx.fillStyle = "#f00";
+      ctx.fillRect(food.x * cellSize, food.y * cellSize, cellSize, cellSize);
+    }
+
+    // Generate new food
+    function generateFood() {
+      food = { x: Math.floor(Math.random() * gridSize), y: Math.floor(Math.random() * gridSize) };
+    }
+
+    // Check for collisions with walls or snake's body
+    function checkCollision() {
+      const head = snake[0];
+      return (
+        head.x < 0 || head.x >= gridSize ||
+        head.y < 0 || head.y >= gridSize ||
+        snake.slice(1).some(segment => segment.x === head.x && segment.y === head.y)
+      );
+    }
+
+    // Reset the game
+    function resetGame() {
+      snake = [{ x: 10, y: 10 }];
+      food = { x: Math.floor(Math.random() * gridSize), y: Math.floor(Math.random() * gridSize) };
+      dx = 1;
+      dy = 0;
+      score = 0;
+    }
+
+    // Start the game
+    main();
+  </script>
+</body>
+</html>
+
