@@ -58,7 +58,6 @@ Looking to collaborate or learn more about my work?
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VaibhavRawat27&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavRawat27&theme=radical" />
 </p>
 
 ---
