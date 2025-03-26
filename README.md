@@ -47,7 +47,7 @@ Looking to collaborate or learn more about my work?
 📡 Visit my website & portfolio below 👇
 
 🚀 **Portfolio Website**  
-🔗 [https://vaibhavrawat.netlify.app](https://vaibhavrawat.netlify.app)
+🔗 ("https://vaibhavrawat27.github.io/my-website/")
 
 📬 **Email**  
 📨 rawatvaibhav27@gmail.com
