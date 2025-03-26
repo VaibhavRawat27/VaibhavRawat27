@@ -47,7 +47,7 @@ Looking to collaborate or learn more about my work?
 📡 Visit my website & portfolio below 👇
 
 🚀 **Portfolio Website**  
-🔗 "https://vaibhavrawat27.github.io/my-website/"
+🔗 [Connect With Me!](https://vaibhavrawat27.github.io/my-website/)
 
 📬 **Email**  
 📨 rawatvaibhav27@gmail.com
