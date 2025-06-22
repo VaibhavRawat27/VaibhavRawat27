@@ -1,13 +1,15 @@
-<h1 align="center">Hey there 👋, I'm Vaibhav Rawat</h1>
+<h1 align="center">👋 Hey there, I'm Vaibhav Rawat</h1>
 <h3 align="center">📱 Android Developer | Aspiring Mobile & Software Development Engineer | R&D Enthusiast 🇮🇳</h3>
 
 ---
 
-### 🚀 About Me
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif" width="300" alt="Hello Animation" />
 </p>
+
+---
+
+### 🚀 About Me
 
 - 🔭 Currently working on **cutting-edge Android development projects**
 - 🌱 Exploring **Kotlin**, **Firebase**, and modern mobile architectures
@@ -48,7 +50,7 @@ Check out the games I've developed:
 🎮 [prokcycodes.itch.io](https://prokcycodes.itch.io/)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif" width="300" alt="Game Animation" />
 </p>
 
 ---
@@ -69,8 +71,8 @@ Looking to collaborate or learn more about my work?
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VaibhavRawat27&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavRawat27&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VaibhavRawat27&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavRawat27&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -88,7 +90,13 @@ Looking to collaborate or learn more about my work?
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:rawatvaibhav27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://vaibhavrawat27.github.io/my-website/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vaibhavrawat27/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rawatvaibhav27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://vaibhavrawat27.github.io/my-website/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/vaibhavrawat27/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif" width="300" alt="Goodbye Animation" />
 </p>
