@@ -59,15 +59,15 @@ Looking to collaborate or learn more about my work?
 
 ### 📈 GitHub Stats
 
-<h3 align="center">🌟 Stats</h3>
+<!--<h3 align="center">🌟 Stats</h3>-->
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavRawat27&layout=compact&theme=transparent" alt="Top Languages" />
   <br/><br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaibhavRawat27&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" />
   <br/><br/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavRawat27&theme=highcontrast" alt="GitHub Streak" />
-  <br/><br/>
+  <!--<img height="180em" src="https://streak-stats.demolab.com?user=VaibhavRawat27&theme=highcontrast" alt="GitHub Streak Stats" />
+  <br/><br/>-->
   <img src="https://github-profile-trophy.vercel.app/?username=VaibhavRawat27&theme=onedark&margin-w=10&no-frame=true" alt="Trophies" />
 </div>
 
