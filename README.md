@@ -59,9 +59,12 @@ Looking to collaborate or learn more about my work?
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VaibhavRawat27&show_icons=true&theme=radical" />
-</p>
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavRawat27&layout=compact&theme=transparent" alt=VaibhavRawat27 />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=VaibhavRawat27&show_icons=true&locale=en&theme=highcontrast" alt="VaibhavRawat27" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavRawat27&theme=highcontrast" alt="VaibhavRawat27" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VaibhavRawat27)](https://github.com/ryo-ma/github-profile-trophy)
 
