@@ -60,6 +60,8 @@ Looking to collaborate or learn more about my work?
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VaibhavRawat27&show_icons=true&theme=radical" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?VaibhavRawat27=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ### 🐍 GitHub Contribution Snake
