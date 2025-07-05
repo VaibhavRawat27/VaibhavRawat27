@@ -71,6 +71,7 @@ Looking to collaborate or learn more about my work?
   <img src="https://github-profile-trophy.vercel.app/?username=VaibhavRawat27&theme=onedark&margin-w=10&no-frame=true" alt="Trophies" />
 </div>
 
+![Contribution Stats](https://github-contribution-graph.vercel.app/api?username=VaibhavRawat27&show_icons=true&bg_color=000000&line=green&point=green)
 
 ---
 
