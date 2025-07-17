@@ -8,12 +8,12 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **cutting-edge Android development projects**
-- 🌱 Exploring **Kotlin**, **Firebase**, and modern mobile architectures
+- 🔭 Currently working on **Web based projects** & **cutting-edge Android development projects**
+- 🌱 Exploring **Python**, **Kotlin**, **Flask**, **Firebase**, and modern mobile architectures
 - 🧠 Passionate about **problem-solving**, **R&D**, and crafting intuitive mobile experiences
 - 🎮 Building indie games in my spare time — scroll down to check them out!
 - 🤝 Always excited to collaborate on impactful **mobile & software engineering** ideas
-- 💌 Reach me at: **rawatvaibhav27@gmail.com**
+- 💌 Reach me at: **rawatvaibhav27@gmail.com** or **vaibhavrawat.dev@gmail.com**
 
 ---
 
@@ -50,10 +50,10 @@ Looking to collaborate or learn more about my work?
 📡 Visit my website & portfolio below 👇
 
 🚀 **Portfolio Website**  
-🔗 [Connect With Me!](https://vaibhavrawat27.github.io/my-website/)
+🔗 [Connect With Me!](https://vaibhavrawat27.github.io/Portfolio/)
 
 📬 **Email**  
-📨 rawatvaibhav27@gmail.com
+📨 rawatvaibhav27@gmail.com or vaibhavrawat.dev@gmail.com
 
 ---
 
@@ -87,5 +87,6 @@ Looking to collaborate or learn more about my work?
 
 <p align="center">
   <a href="mailto:rawatvaibhav27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:vaibhavrawat.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://vaibhavrawat27.github.io/my-website/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
