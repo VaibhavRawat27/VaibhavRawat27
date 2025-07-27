@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently working on **Web based projects** & **cutting-edge Android development projects**
-- 🌱 Exploring **Python**, **Kotlin**, **Flask**, **Firebase**, and modern mobile architectures
+- 🌱 Exploring **Python**, **Kotlin**, **Flask**, **Firebase**, and modern web frameworks.
 - 🧠 Passionate about **problem-solving**, **R&D**, and crafting intuitive mobile experiences
 - 🎮 Building indie games in my spare time — scroll down to check them out!
 - 🤝 Always excited to collaborate on impactful **mobile & software engineering** ideas
