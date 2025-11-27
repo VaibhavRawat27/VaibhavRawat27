@@ -87,6 +87,6 @@ Looking to collaborate or learn more about my work?
 
 <p align="center">
   <a href="mailto:rawatvaibhav27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:vaibhavrawat.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://vaibhavrawat27.github.io/my-website/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="mailto:vaibhavrawat.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
