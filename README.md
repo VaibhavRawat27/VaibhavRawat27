@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Vaibhav Rawat</h1>
-<h3 align="center">Aspiring Mobile & Software Development Engineer | R&D Enthusiast</h3>
+<h3 align="center">Aspiring Software Development Engineer | R&D Enthusiast</h3>
 
 ---
 
