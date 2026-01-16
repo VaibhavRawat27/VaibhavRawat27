@@ -50,7 +50,7 @@ Looking to collaborate or learn more about my work?
 📡 Visit my website & portfolio below 👇
 
 🚀 **Portfolio Website**  
-🔗 [Connect With Me!](https://vaibhavrawat27.github.io/Portfolio/)
+🔗 [Connect With Me!](https://vaibhavRawat.vercel.app)
 
 📬 **Email**  
 📨 rawatvaibhav27@gmail.com or vaibhavrawat.dev@gmail.com
